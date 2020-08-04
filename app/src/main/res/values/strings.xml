@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Recorder</string>
+    <string name="record">Record</string>
+    <string name="start">Start Record</string>
 </resources>
